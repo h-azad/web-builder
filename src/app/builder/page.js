@@ -38,10 +38,6 @@ export default function DefaultEditor() {
         // gjsRTE,
         gjsTailwind,
       ]}
-    >
-      <div>
-        <Canvas />
-      </div>
-    </GjsEditor>
+    />
   );
 }
